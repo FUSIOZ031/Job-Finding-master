@@ -15,9 +15,9 @@ if(isset($_GET["page"])) {
 $start_from = ($page-1) * $limit;
 
 
-if(isset($_GET['filter']) && $_GET['filter']=='city') {
+if(isset($_GET['filter']) && $_GET['filter']=='state') {
 
-  $sql = "SELECT * FROM company WHERE city='$_GET[search]'";
+  $sql = "SELECT * FROM company WHERE state='$_GET[search]'";
 
   $result = $conn->query($sql);
   if($result->num_rows > 0) {
@@ -34,7 +34,7 @@ if(isset($_GET['filter']) && $_GET['filter']=='city') {
                 <div class="attachment-pushed">
                   <h4 class="attachment-heading"><a href="view-job-post.php?id=<?php echo $row['id_jobpost']; ?>"><?php echo $row['jobtitle']; ?></a> <span class="attachment-heading pull-right">$<?php echo $row['maximumsalary']; ?>/Month</span></h4>
                   <div class="attachment-text">
-                      <div><strong><?php echo $row1['companyname']; ?> | <?php echo $row1['city']; ?> | Experience <?php echo $row['experience']; ?> Years</strong></div>
+                      <div><strong><?php echo $row1['companyname']; ?> | <?php echo $row1['state']; ?> | Experience <?php echo $row['experience']; ?> Years</strong></div>
                   </div>
                 </div>
               </div>
