@@ -53,7 +53,7 @@ require_once("../db.php");
   
 
       <!-- logo for regular state and mobile devices -->
-      <span> <img src="img/logo.png" height="50" width="45" alt=""> <b>BK</b> <b>Job</b> <b>Portal</b></span>
+      <span> <img src= img/logo.png height="50" width="45" alt=""> <b>BK Job Portal</b></span>
     </a>
 
     <!-- Header Navbar: style can be found in header.less -->

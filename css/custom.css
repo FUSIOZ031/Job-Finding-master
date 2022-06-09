@@ -1,28 +1,30 @@
 .bg-main {
-	background: linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../img/job-search.jpg) no-repeat center center fixed !important; 
+	background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/job.png) no-repeat center center fixed !important;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover !important;
 }
+
 .index-head {
 	padding: 10%;
 	color: #fff;
 	line-height: 150%;
 }
 
-.index-head > h1 {
+.index-head>h1 {
 	font-size: 60px;
 }
+
 .logo-bg {
 	background-color: #00A65A !important;
 }
 
-.index-head > p {
+.index-head>p {
 	font-size: 32px;
 }
 
-.index-head > p > a {
+.index-head>p>a {
 	margin-top: 20px;
 }
 
@@ -30,21 +32,21 @@
 	line-height: 150%;
 }
 
-.latest-job > h1 {
+.latest-job>h1 {
 	font-size: 60px;
 }
 
-.candidate-img > img {
+.candidate-img>img {
 	width: 350px;
 	height: 175px;
 }
 
-.company-img > img {
+.company-img>img {
 	width: 350px;
 	height: 200px;
 }
 
-.about-text > p {
+.about-text>p {
 	font-size: 17px;
 	line-height: 150%;
 }
@@ -68,9 +70,11 @@
 .padding-2 {
 	padding: 2%;
 }
+
 .bg-white {
 	background-color: #fff;
 }
+
 .margin-right-10 {
 	margin-right: 10px;
 }
