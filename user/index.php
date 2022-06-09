@@ -16,7 +16,7 @@ require_once("../db.php");
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Job Portal</title>
+  <title>BK Job Portal</title>
    <!-- favicon-->
   <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
   <!-- Tell the browser to be responsive to screen width -->
@@ -53,7 +53,8 @@ require_once("../db.php");
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>J</b>P</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Job</b> Portal</span>
+
+      <span class="logo-lg"><b>BK</b> <b>Job</b> <b>Portal</b></span>
     </a>
 
     <!-- Header Navbar: style can be found in header.less -->
