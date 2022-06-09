@@ -12,7 +12,11 @@ if(isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Job Portal</title>
+  <title>BK Job Portal</title>
+  <!-- favicon-->
+  <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
+
+  
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
@@ -26,14 +30,13 @@ if(isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
   <!-- iCheck -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/iCheck/1.0.2/skins/square/blue.css">
 
-
   <!-- Google Font -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
 </head>
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <a href="index.php"><b>Job</b> Portal</a>
+    <a href="index.php"> <b>BK Job Portal</b></a>
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">

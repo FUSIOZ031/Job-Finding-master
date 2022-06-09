@@ -49,7 +49,7 @@ if($result->num_rows >  0 ){
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Job Portal</title>
+  <title>BK Job Portal</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
@@ -65,7 +65,8 @@ if($result->num_rows >  0 ){
   <link rel="stylesheet" href="../css/custom.css">
   <!-- DataTables -->
   <link rel="stylesheet" href="https://cdn.datatables.net/1.10.15/css/jquery.dataTables.min.css">
-
+   <!-- favicon-->
+  <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
   <script src="../js/tinymce/tinymce.min.js"></script>
   <script>tinymce.init({ selector:'#description', height: 150 });</script>
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -89,7 +90,7 @@ if($result->num_rows >  0 ){
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>J</b>P</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Job</b> Portal</span>
+      <span class="fa fa-globe"> <b>BK</b> <b>Job</b> <b>Portal</b></span>
     </a>
 
     <!-- Header Navbar: style can be found in header.less -->

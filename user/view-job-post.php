@@ -71,7 +71,7 @@ if($result->num_rows > 0)
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>J</b>P</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Job</b> Portal</span>
+      <span class="fa fa-globe"> <b>BK</b> <b>Job</b> <b>Portal</b></span>
     </a>
 
     <!-- Header Navbar: style can be found in header.less -->
