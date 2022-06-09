@@ -1,5 +1,6 @@
 <?php
 
+//Nguyen Trong Tin Checked
 //To Handle Session Variables on This Page
 session_start();
 
