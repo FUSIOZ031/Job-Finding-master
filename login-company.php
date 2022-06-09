@@ -14,7 +14,7 @@ if(isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>BK Job Portal</title>
   <!-- favicon-->
-  <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="img/BK.png" />
 
   
   <!-- Tell the browser to be responsive to screen width -->
@@ -36,7 +36,7 @@ if(isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-     <img src="img/logo.png" height="95" width="95" alt="">
+     <img src="img/BK.png" height="95" width="95" alt="">
     <a href="index.php"> <b>BK Job Portal</b></a>
   </div>
   <!-- /.login-logo -->

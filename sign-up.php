@@ -15,7 +15,7 @@ if(isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>BK Job Portal</title>
     <!-- favicon-->
-  <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="img/BK.png" />
 
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
@@ -51,7 +51,7 @@ if(isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>J</b>P</span>
       <!-- logo for regular state and mobile devices -->
-      <span> <img src="img/logo.png" height="50" width="45" alt=""> <b>BK Job Portal</b></span>
+      <span> <img src="img/BK.png" height="50" width="50" alt=""> <b>BK Job Portal</b></span>
     </a>
 
     <!-- Header Navbar: style can be found in header.less -->

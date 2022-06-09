@@ -14,7 +14,7 @@ require_once("db.php");
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>BK Job Portal</title>
     <!-- favicon-->
-  <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="img/BK.png" />
 
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">

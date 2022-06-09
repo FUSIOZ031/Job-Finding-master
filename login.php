@@ -28,7 +28,7 @@ if(isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
   <!-- Custom -->
   <link rel="stylesheet" href="css/custom.css">
    <!-- favicon-->
-  <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="img/BK.png" />
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
@@ -50,7 +50,7 @@ if(isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
       <!-- mini logo for sidebar mini 50x50 pixels -->
       
       <!-- logo for regular state and mobile devices -->
-      <span> <img src="img/logo.png" height="50" width="45" alt=""> <b>BK Job Portal</b></span>
+      <span> <img src="img/BK.png" height="50" width="50" alt=""> <b>BK Job Portal</b></span>
     </a>
 
     <!-- Header Navbar: style can be found in header.less -->

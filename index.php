@@ -347,7 +347,7 @@ require_once("db.php");
             <img src="img/aboutus.png" class="img-responsive">
           </div>
           <div class="col-md-6 about-text margin-bottom-20">
-            <p>The online job portal application allows job seekers and recruiters to connect.The application provides the ability for job seekers to create their accounts, upload their profile and resume, search for jobs, apply for jobs, view different job openings. The application provides the ability for companies to create their accounts, search candidates, create job postings, and view candidates applications.
+            <p>BK job portal application allows job seekers and recruiters to connect.The application provides the ability for job seekers to create their accounts, upload their profile and resume, search for jobs, apply for jobs, view different job openings. The application provides the ability for companies to create their accounts, search candidates, create job postings, and view candidates applications.
             </p>
             <p>
               This website is used to provide a platform for potential candidates to get their dream job and excel in yheir career.
@@ -365,7 +365,7 @@ require_once("db.php");
 
   <footer class="main-footer" style="margin-left: 0px;">
     <div class="text-center">
-      <strong>Copyright &copy; 2016-2017 <a href="jonsnow.netai.net">Job Portal</a>.</strong> All rights
+      <strong>Copyright &copy; 2016-2017 <a href="jonsnow.netai.net">BK Job Portal</a>.</strong> All rights
     reserved.
     </div>
   </footer>

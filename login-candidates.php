@@ -15,7 +15,7 @@ if(isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
    <!-- favicon-->
-  <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="img/BK.png" />
   <!-- Bootstrap 3.3.7 -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
   <!-- Font Awesome -->
@@ -33,7 +33,7 @@ if(isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <img src="img/logo.png" height="95" width="95" alt="">
+    <img src="img/BK.png" height="95" width="95" alt="">
    <a href="index.php"> <b>BK Job Portal</b></a>
   </div>
   <!-- /.login-logo -->
