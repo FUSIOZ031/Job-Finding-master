@@ -18,7 +18,7 @@ require_once("../db.php");
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>BK Job Portal</title>
    <!-- favicon-->
-  <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="img/BK.png" />
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
@@ -53,7 +53,7 @@ require_once("../db.php");
   
 
       <!-- logo for regular state and mobile devices -->
-      <span> <img src= img/logo.png height="50" width="45" alt=""> <b>BK Job Portal</b></span>
+      <span> <img src= img/BK.png height="50" width="45" alt=""> <b>BK Job Portal</b></span>
     </a>
 
     <!-- Header Navbar: style can be found in header.less -->
