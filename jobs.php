@@ -119,8 +119,8 @@ require_once("db.php");
                   <li class="treeview menu-open">
                     <a href="#"><i class="fa fa-plane text-red"></i> City <span class="pull-right"><i class="fa fa-angle-down pull-right"></i></span></a>
                     <ul class="treeview-menu">
-                      <li><a href=""  class="citySearch" data-target="Bengaluru"><i class="fa fa-circle-o text-yellow"></i> Bengaluru</a></li>
-                      <li><a href="" class="citySearch" data-target="Navi Mumbai"><i class="fa fa-circle-o text-yellow"></i> Navi Mumbai</a></li>
+                      <li><a href=""  class="citySearch" data-target="Thanh Pho Ho Chi Minh"><i class="fa fa-circle-o text-yellow"></i> Ho Chi Minh </a></li>
+                      <li><a href="" class="citySearch" data-target="Thu Do Ha Noi"><i class="fa fa-circle-o text-yellow"></i> Ha Noi </a></li>
                     </ul>
                   </li>
                   <li class="treeview menu-open">
