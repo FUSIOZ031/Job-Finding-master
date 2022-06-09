@@ -106,7 +106,7 @@ require_once("db.php");
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center index-head" >
-            <h1>Hired <strong>JOBS</strong> In One Place</h1>
+            <h1> <b> ALL JOBS IN ONE PLACE </b></h1>
             <p>One search, global reach</p>
             <p><a class="btn btn-success btn-lg" href="jobs.php" role="button">Search Jobs</a></p>
           </div>
