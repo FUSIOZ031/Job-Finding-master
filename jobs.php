@@ -119,8 +119,8 @@ require_once("db.php");
                   <li class="treeview menu-open">
                     <a href="#"><i class="fa fa-plane text-red"></i> City <span class="pull-right"><i class="fa fa-angle-down pull-right"></i></span></a>
                     <ul class="treeview-menu">
-                      <li><a href=""  class="citySearch" data-target="Thanh Pho Ho Chi Minh"><i class="fa fa-circle-o text-yellow"></i> Ho Chi Minh </a></li>
-                      <li><a href="" class="citySearch" data-target="Thu Do Ha Noi"><i class="fa fa-circle-o text-yellow"></i> Ha Noi </a></li>
+                      <li><a href=""  class="stateSearch" data-target="Thanh Pho Ho Chi Minh"><i class="fa fa-circle-o text-yellow"></i> Ho Chi Minh </a></li>
+                      <li><a href="" class="stateSearch" data-target="Thu Do Ha Noi"><i class="fa fa-circle-o text-yellow"></i> Ha Noi </a></li>
                     </ul>
                   </li>
                   <li class="treeview menu-open">
@@ -178,7 +178,7 @@ require_once("db.php");
 
   <footer class="main-footer" style="margin-left: 0px;">
     <div class="text-center">
-      <strong>Copyright &copy; 2016-2017 <a href="jonsnow.netai.net">Job Portal</a>.</strong> All rights
+      <strong>Copyright &copy; 2016-2017 <a href="jonsnow.netai.net">BK Job Portal</a>.</strong> All rights
     reserved.
     </div>
   </footer>
@@ -250,10 +250,10 @@ require_once("db.php");
 </script>
 
 <script>
-  $(".citySearch").on("click", function(e) {
+  $(".stateSearch").on("click", function(e) {
     e.preventDefault();
     var searchResult = $(this).data("target");
-    var filter = "city";
+    var filter = "state";
     if(searchResult != "") {
       $("#pagination").twbsPagination('destroy');
       Search(searchResult, filter);
