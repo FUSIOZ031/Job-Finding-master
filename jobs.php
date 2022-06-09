@@ -121,6 +121,9 @@ require_once("db.php");
                     <ul class="treeview-menu">
                       <li><a href=""  class="stateSearch" data-target="Thanh Pho Ho Chi Minh"><i class="fa fa-circle-o text-yellow"></i> Ho Chi Minh </a></li>
                       <li><a href="" class="stateSearch" data-target="Thu Do Ha Noi"><i class="fa fa-circle-o text-yellow"></i> Ha Noi </a></li>
+                      <li><a href="" class="stateSearch" data-target="Da Nang"><i class="fa fa-circle-o text-yellow"></i> Da Nang </a></li>
+                      <li><a href="" class="stateSearch" data-target="Ca Mau"><i class="fa fa-circle-o text-yellow"></i> Ca Mau </a></li>
+                      <li><a href="" class="stateSearch" data-target="Phu Quoc"><i class="fa fa-circle-o text-yellow"></i> Phu Quoc </a></li>
                     </ul>
                   </li>
                   <li class="treeview menu-open">
