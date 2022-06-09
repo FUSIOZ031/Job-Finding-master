@@ -36,6 +36,7 @@ if(isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
+     <img src="img/logo.png" height="95" width="95" alt="">
     <a href="index.php"> <b>BK Job Portal</b></a>
   </div>
   <!-- /.login-logo -->

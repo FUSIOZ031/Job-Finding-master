@@ -49,7 +49,7 @@ require_once("db.php");
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>J</b>P</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="fa fa-globe"> <b>BK</b> <b>Job</b> <b>Portal</b></span>
+      <span> <img src="img/logo.png" height="50" width="45" alt=""> <b>BK</b> <b>Job</b> <b>Portal</b></span>
     </a>
 
     <!-- Header Navbar: style can be found in header.less -->
